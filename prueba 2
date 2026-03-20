@@ -1,0 +1,9 @@
+nombre = "Mathias"
+edad = 17
+
+print("Hola, soy", nombre)
+
+if edad >= 18:
+    print("Soy adulto")
+else:
+    print("Soy joven")
